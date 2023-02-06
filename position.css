@@ -1,0 +1,13 @@
+*,html, body {
+  margin: 0;
+  padding: 0;
+}
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  border-radius: 50%;
+  position: absolute;
+  right: 35%;
+  bottom: 45%;
+}
