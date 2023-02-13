@@ -1,0 +1,34 @@
+*,html, body{
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 960px;
+  margin: 0 auto;
+  border: 1px solid #000;
+}
+header {
+  width: 100%;
+  height: 150px;
+  background-color: #FF0000;
+}
+nav {
+  width: 100%;
+  height: 150px;
+  background: #FFFF00;
+}
+.content {
+  width: 70%;
+  height: 500px;
+  background: #00FF00;
+}
+.sidebar {
+  width: 30%;
+  height: 500px;
+  background: #00FFFF;
+}
+footer {
+  width : 100%;
+  height: 100px;
+  background: #0000FF;
+}
